@@ -1,8 +1,9 @@
 ## 💎 Olá, meu nome é <strong>Matheus Peixoto!</strong>
 
-> Lua medium developer
+> PHP, NODE, JS developer
 
-🔭 (Empresa) (Cargo)
+🔭 Key Solution Consultoria
+👾 XPER GLOBAL
 
 ----
 
