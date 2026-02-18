@@ -1,52 +1,42 @@
-## 💎 Olá, sou Matheus Peixoto!
+# Olá, eu sou o Matheus Peixoto! 🚀
 
-> Full Stack Developer | BI Analyst | Founder @ MetaTech
+### Full Stack Developer | BI Analyst | Founder @ MetaTech
+
+Sou um desenvolvedor movido a **café** e resolução de problemas reais. Atualmente, atuo na intersecção entre desenvolvimento de software e inteligência de negócios.
+
+Meu foco é criar sistemas que não apenas funcionam, mas que entregam valor real para o usuário final, seja através de um painel administrativo complexo ou de uma automação inteligente.
+
+- 🔭 **Trabalhando atualmente:** Desenvolvimento de ecossistemas SaaS na **MetaTech** e Sistemas de Gestão/BI na **Key Solution**.
+- 💡 **Especialidade:** Criação de interfaces **Mobile-First**, APIs robustas e Dashboards Interativos.
+- ⚡ **Stack Principal:** React.js, Node.js e Análise de Dados.
+- ☕ **Curiosidade:** Acredito que não existe bug que mais uma xícara de café (e um bom console.log) não resolva.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-peixoto-b2a613203/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="http://metatechbot.online/" target="_blank">
-    <img src="https://img.shields.io/badge/-MetaTech-%2320232a?style=for-the-badge&logo=internet-explorer&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
-### ☕ Minha Rotina em Código
+### 📊 GitHub Stats
 
-```javascript
-const matheusDev = {
-    companies: ["Key Solution", "MetaTech"],
-    stack: {
-        front: "React.js & Mobile-First",
-        back: "Node.js & PHP",
-        data: "Power BI & Excel"
-    },
-    fuel: "Coffee ☕"
-};
-
-while (matheusDev.fuel) {
-    console.log("Transformando café em código... 🚀");
-}
-
-🚀 Tech Stack
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/node.js-6DA55F%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/php-%2523777BB4.svg%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" />
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/mysql-%252300f.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PowerBI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3DPower%2520BI%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/excel-%2523217346.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-excel%26logoColor%3Dwhite" />
+  <a href="https://github.com/SrPeixoto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrPeixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPeixoto&layout=compact&theme=dracula"/>
+  </a>
 </div>
 
-📊 GitHub Stats
-<div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSrPeixoto%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSrPeixoto%26layout%3Dcompact%26theme%3Ddracula%26hide_langs_below%3D1"/>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/matheus-peixoto-b2a613203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://metatechbot.online/" target="_blank"><img src="https://img.shields.io/badge/-MetaTech-%2320232a?style=for-the-badge&logo=internet-explorer&logoColor=white" target="_blank"></a>
 </div>
